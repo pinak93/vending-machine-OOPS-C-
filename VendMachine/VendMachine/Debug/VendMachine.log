@@ -1,0 +1,11 @@
+﻿  currency_bank.cpp
+  Exception.cpp
+  inventory.cpp
+C:\Users\pinak\source\repos\VendMachine\VendMachine\inventory.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  items.cpp
+  main.cpp
+C:\Users\pinak\source\repos\VendMachine\VendMachine\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\pinak\source\repos\VendMachine\VendMachine\main.cpp(62,29): warning C4018: '>': signed/unsigned mismatch
+  vendMachine.cpp
+  Generating Code...
+  VendMachine.vcxproj -> C:\Users\pinak\source\repos\VendMachine\Debug\VendMachine.exe
